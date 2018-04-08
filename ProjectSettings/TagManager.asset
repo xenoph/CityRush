@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Team2
+  - Team1
+  - Team2missile
+  - Team1missile
+  - Tower
+  - neutral
+  - WallMissile
+  - CPmissile
+  - CP
+  - EnemyWall
+  - TutorialText
+  - DialogueText
+  - CentreText
+  - TutorialStones
+  - MenuText
+  - ResumeButton
+  - NextLevel
+  - FriendlyWall
+  - Ground
+  - MouseEffect
+  - JeepMissile
+  - ArmyJeepMissile
+  - MenuPanel
+  - ArrowDown
+  - JeepCounter
+  - TankCounter
+  - DialogueBG
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Missile
+  - Tower
+  - Unit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
